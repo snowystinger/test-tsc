@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "typeRoots": [],
+    "types": [],
+    "skipLibCheck": false,
+  },
+  "include": ["src"]
+}
